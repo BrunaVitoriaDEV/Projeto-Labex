@@ -1,6 +1,6 @@
 # Projeto-Labex
 Um site de viagens pelo universo.
-Um site responsivo
+(responsivo)
 ## Link do projeto: 
 
 alike-underwear.surge.sh
